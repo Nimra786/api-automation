@@ -1,0 +1,26 @@
+{
+    "users": {
+      "user1": {
+        "name": "John Doe",
+        "job": "leader"
+      },
+      "user2": {
+        "name": "Jane Smith"
+      },
+      "user3": {
+        "job": "leader1"
+      },
+      "user4": {
+        "name": "",
+        "job": ""
+      },
+      "user5": {
+        "name": "Emily Davis@#&*",
+        "job": "leader@#&*"
+      },
+      "user6": {
+        "name": "12345",
+        "job": "67890"
+      }
+    }
+  }

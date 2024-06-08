@@ -1,0 +1,26 @@
+{
+    "users": {
+      "user1": {
+        "name": "morpheus",
+         "job": "zion resident"
+      },
+      "user2": {
+        "name": "morpheus"
+      },
+      "user3": {
+        "job": "zion resident"
+    },
+      "user4": {
+        "name": "",
+        "job": ""
+      },
+      "user5": {
+        "name": "morpheus@#&*",
+        "job": "zion resident$%!"
+      },
+      "user6": {
+        "name": "12345",
+        "job": "67890"
+      }
+    }
+  }

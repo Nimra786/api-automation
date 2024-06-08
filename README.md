@@ -1,6 +1,6 @@
 # Reqres In
 
-Welcome to the Regres In Api project! This project contains automated tests for API of ( https://reqres.in/ )
+Welcome to the Reqres In Api project! This project contains automated tests for API of ( https://reqres.in/ )
 
 ## Prerequisites
 
